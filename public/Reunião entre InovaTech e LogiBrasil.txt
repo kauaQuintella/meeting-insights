@@ -1,0 +1,11 @@
+Mariana: Bom dia, pessoal. Estamos aqui para alinhar a migração do nosso sistema de logística para a plataforma da InovaTech.
+Carlos: Bom dia, Mariana. Perfeito. Nossa equipe já preparou o cronograma inicial. A primeira decisão que precisamos tomar hoje é se faremos a virada de dados de uma só vez ou em lotes.
+Roberto: Do ponto de vista técnico, a virada em lotes é mais segura, mas vai atrasar a conclusão total em duas semanas.
+Mariana: Não podemos atrasar duas semanas. Decidido: a migração será feita em uma única janela no próximo final de semana.
+Carlos: Entendido. Decisão tomada: migração total no próximo fim de semana. Mas preciso alertar sobre um risco crítico aqui: o servidor atual da LogiBrasil está com instabilidade e pode corromper os dados durante a exportação em massa.
+Roberto: Exato. A severidade desse risco é alta. Se o banco cair no meio do processo, perderemos o histórico de entregas.
+Mariana: Nossa equipe de infraestrutura vai reforçar o monitoramento do servidor durante a janela para mitigar isso.
+Carlos: Ótimo. Outra decisão: o treinamento dos operadores será na próxima quarta-feira, conduzido pelo Roberto.
+Roberto: Confirmado. Farei o treinamento às 14h. Porém, identifico outro risco: a equipe da LogiBrasil não concluiu os testes de homologação, o que pode gerar falhas no treinamento.
+Mariana: Verdade, estamos com atraso nos testes. Vou designar o João para finalizar a homologação até terça-feira sem falta.
+Carlos: Perfeito. Ficou decidido então que a homologação termina terça e o treinamento ocorre quarta. Fechamos os pontos principais por hoje.

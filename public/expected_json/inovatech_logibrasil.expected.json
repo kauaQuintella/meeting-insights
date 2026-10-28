@@ -1,0 +1,43 @@
+
+{
+  "summary": "Reunião para alinhar a migração do sistema de logística da LogiBrasil para a plataforma da InovaTech. Foi decidida uma migração integral em uma única janela no próximo fim de semana, com monitoramento reforçado, conclusão dos testes de homologação até terça-feira e treinamento dos operadores na quarta-feira às 14h.",
+  "decisions": [
+    "Realizar a migração integral dos dados em uma única janela no próximo fim de semana.",
+    "Realizar o treinamento dos operadores na próxima quarta-feira, às 14h, conduzido por Roberto.",
+    "Concluir os testes de homologação até terça-feira."
+  ],
+  "action_items": [
+    {
+      "task": "Executar a migração integral dos dados em uma única janela.",
+      "owner": null,
+      "due": "próximo fim de semana"
+    },
+    {
+      "task": "Reforçar o monitoramento do servidor durante a janela de migração.",
+      "owner": "equipe de infraestrutura da InovaTech",
+      "due": "durante a janela de migração no próximo fim de semana"
+    },
+    {
+      "task": "Conduzir o treinamento dos operadores.",
+      "owner": "Roberto",
+      "due": "próxima quarta-feira às 14h"
+    },
+    {
+      "task": "Finalizar os testes de homologação.",
+      "owner": "João",
+      "due": "terça-feira"
+    }
+  ],
+  "risks": [
+    {
+      "description": "A instabilidade do servidor atual da LogiBrasil pode causar corrupção ou perda do histórico de entregas durante a exportação em massa.",
+      "severity": "high",
+      "mitigation": "Reforçar o monitoramento do servidor durante a janela de migração."
+    },
+    {
+      "description": "Os testes de homologação não foram concluídos, o que pode provocar falhas durante o treinamento dos operadores.",
+      "severity": "medium",
+      "mitigation": "Finalizar os testes de homologação até terça-feira, conforme atribuição feita a João."
+    }
+  ]
+}

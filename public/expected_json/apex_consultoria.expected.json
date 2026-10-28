@@ -1,0 +1,32 @@
+
+{
+  "summary": "Reunião sobre os ajustes na arquitetura do pipeline de análise de crédito, com foco na otimização das consultas ao banco de dados, no risco de falta de memória durante a Black Friday e no envio do relatório de impacto financeiro à diretoria.",
+  "decisions": [
+    "Otimizar as consultas ao banco de dados para reduzir a latência.",
+    "Enviar o relatório de impacto financeiro para a diretoria."
+  ],
+  "action_items": [
+    {
+      "task": "Revisar e otimizar a query do banco de dados.",
+      "owner": null,
+      "due": "próximo sprint"
+    },
+    {
+      "task": "Cotizar os custos de ampliação da infraestrutura de nuvem com o provedor.",
+      "owner": null,
+      "due": null
+    },
+    {
+      "task": "Enviar o relatório de impacto financeiro para a diretoria.",
+      "owner": null,
+      "due": null
+    }
+  ],
+  "risks": [
+    {
+      "description": "O servidor pode exceder o limite de memória caso o volume de transações aumente durante a Black Friday.",
+      "severity": "high",
+      "mitigation": "Migrar para um cluster escalável ou aumentar o limite da instância cloud antes do evento."
+    }
+  ]
+}

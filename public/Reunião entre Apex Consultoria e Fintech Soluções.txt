@@ -1,0 +1,11 @@
+Guilherme: Bom dia a todos. O objetivo da reunião de hoje é discutir os ajustes na arquitetura do nosso pipeline de análise de crédito.
+Patrícia: Bom dia, Guilherme. Pelo que avaliamos, o tempo de resposta atual das consultas está muito alto.
+Ricardo: Sim, concordamos. A decisão é que precisamos otimizar as consultas ao banco de dados com urgência para reduzir a latência.
+Guilherme: Certo, mas quem da equipe vai liderar essa reestruturação da query?
+Patrícia: Acredito que o time de backend devia dar uma olhada nisso em breve, talvez no próximo sprint.
+Ricardo: Beleza, fica combinado de revisar a query depois. Outro ponto: identificamos o risco do servidor estourar o limite de memória se o volume de transações subir na Black Friday.
+Guilherme: Qual seria a mitigação para esse risco de memória?
+Patrícia: Precisamos migrar para um cluster escalável ou aumentar o limite da instância cloud antes do evento.
+Ricardo: Alguém precisa cotar esses custos de ampliação da nuvem com o provedor.
+Guilherme: Perfeito, vou deixar anotado que precisa ser cotado. Para fechar, ficou decidido que o relatório de impacto financeiro precisa ser enviado para a diretoria.
+Patrícia: Excelente, depois decidimos quem envia esse relatório.

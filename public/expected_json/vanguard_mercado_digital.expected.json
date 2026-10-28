@@ -1,0 +1,26 @@
+
+{
+  "summary": "Reunião para alinhar as ações de lançamento do portal de e-commerce da Mercado Digital. Foi definida a data de lançamento para o dia 15 do próximo mês, com tarefas de integração de pagamentos, campanhas de marketing e cadastro do catálogo de produtos. A infraestrutura foi descrita como estável, sem impedimentos técnicos ou gargalos identificados.",
+  "decisions": [
+    "Definir o dia 15 do próximo mês como data oficial de lançamento do portal de e-commerce.",
+    "Atribuir à equipe de operações da Mercado Digital o cadastro completo do catálogo de produtos até a quarta-feira da semana seguinte."
+  ],
+  "action_items": [
+    {
+      "task": "Configurar o gateway de pagamento e a integração com os bancos.",
+      "owner": "Lucas",
+      "due": "sexta-feira"
+    },
+    {
+      "task": "Criar as campanhas de marketing digital e preparar o material para as redes sociais.",
+      "owner": "Fernanda",
+      "due": "próxima segunda-feira"
+    },
+    {
+      "task": "Realizar o cadastro completo do catálogo de produtos na plataforma.",
+      "owner": "equipe de operações da Mercado Digital",
+      "due": "quarta-feira da próxima semana"
+    }
+  ],
+  "risks": []
+}

@@ -1,0 +1,12 @@
+Fernanda: Pessoal, bom dia! Essa reunião é para alinhar as ações do lançamento do portal de e-commerce da Mercado Digital.
+Lucas: Bom dia, Fernanda. O escopo do projeto está bem definido e a infraestrutura está 100% estável para a implementação.
+Juliana: Perfeito, Lucas. Vamos às definições finais das tarefas do time.
+Fernanda: Primeira decisão tomada: a data oficial do lançamento será no dia 15 do próximo mês.
+Lucas: Excelente. Eu vou ficar responsável por configurar o gateway de pagamento e a integração com os bancos.
+Juliana: Qual é o seu prazo para isso, Lucas?
+Lucas: Consigo concluir tudo até sexta-feira.
+Juliana: Perfeito. Fica definido então que o Lucas entrega a integração de pagamentos até sexta-feira.
+Fernanda: Eu vou criar as campanhas de marketing digital e preparar o material para as redes sociais. Entrego tudo pronto na próxima segunda-feira.
+Lucas: Ótimo, tudo mapeado. E quanto ao cadastro dos produtos na plataforma?
+Juliana: Ficou decidido que a equipe de operações da Mercado Digital assume o cadastro total do catálogo até a quarta-feira da semana que vem.
+Fernanda: Maravilhoso. Tudo bem alinhado, sem impedimentos técnicos ou gargalos identificados para essa etapa.
