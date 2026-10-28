@@ -1,0 +1,58 @@
+# Modelos e Pesos
+*.gguf
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+models/
+weights/
+.cache/huggingface/
+.cache/ollama/
+
+# Bancos de Dados Vetoriais e Histórico
+chroma_db/
+.chromadb/
+faiss_index/
+qdrant_data/
+lance_db/
+*.log
+*chatlog.json
+*chat_history*
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Variáveis de Ambiente e Credenciais
+.env
+.env.[a-zA-Z]*
+!.env.example
+secrets.toml
+
+# Ambiente Virtual e Cache do Python
+.venv/
+venv/
+ENV/
+env/
+dist/
+build/
+*.egg-info/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Testes e Qualidade de Código
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# IDEs e Sistema Operacional
+.vscode/
+.idea/
+.cursor/
+.DS_Store
+Thumbs.db
+
